@@ -1,0 +1,12 @@
+C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson2/build/CMakeFiles/Experimental.dir
+C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson2/build/CMakeFiles/Nightly.dir
+C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson2/build/CMakeFiles/Continuous.dir
+C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson2/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson2/build/CMakeFiles/opencvlesson1.dir
+C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson2/build/CMakeFiles/PACKAGE.dir
+C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson2/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson2/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson2/build/my_lib/CMakeFiles/my_lib.dir
+C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson2/build/my_lib/CMakeFiles/PACKAGE.dir
+C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson2/build/my_lib/CMakeFiles/RUN_TESTS.dir

@@ -1,0 +1,10 @@
+^C:\USERS\CASPER\DESKTOP\MASTER\IMAGEPROCESSING\OPENCVTUTORIALCPP\LESSON1\BUILD\CMAKEFILES\DBEB623B3C54E9F79473B3D4FC16A3C8\GENERATE.STAMP.RULE
+setlocal
+F:\CMake\bin\cmake.exe -SC:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson1 -BC:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/CASPER/Desktop/Master/ImageProcessing/OpenCvTutorialCpp/Lesson1/build/opencvlesson1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
